@@ -3,7 +3,7 @@
 * music: Ronald Kahn, pixabay
 * Code: Jakob Friedrich
 * projekt manegement:Jakob Friedrich
-* pictures:Jakob Friedrich
+* gameart:Jakob Friedrich
 
 # control:
 * `arrow right` = move right  
